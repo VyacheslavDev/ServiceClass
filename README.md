@@ -4,4 +4,4 @@ How fast start work ?
 
 2. After install go to in service local manager in Windows, and find service with name "ServiceForRunApp" and run.
 
-3. In direct folder find file with name "Settings.xml" and enter settings according sample in file, which required for run your app.
+3. In direct folder (example on disk C:/Program Files (x86)/ServiceForRunApp/) - find file with name "Settings.xml" and enter settings according sample in file, which required for run your app.
